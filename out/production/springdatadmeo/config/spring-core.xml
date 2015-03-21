@@ -21,6 +21,7 @@
              <constructor-arg name="databaseName" value="demo" />
     </bean>
 
+
      <!--
      <jpa:repositories base-package="com.lejun.repository" />
      -->
